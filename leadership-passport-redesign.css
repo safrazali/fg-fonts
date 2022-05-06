@@ -1,0 +1,8 @@
+.d2l-page-header, 
+.d2l-page-title {
+    display: none;
+}
+
+body, p {
+    color: red !important;
+}
