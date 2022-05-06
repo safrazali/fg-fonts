@@ -1,0 +1,4 @@
+.d2l-page-header, 
+.d2l-page-title {
+    display: none;
+}
