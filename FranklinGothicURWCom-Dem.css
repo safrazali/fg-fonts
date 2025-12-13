@@ -1,4 +1,14 @@
 @font-face {
-        font-family: "FranklinGothicURWCom-Dem";
-        src: url('https://github.com/safrazali/fg-fonts/blob/main/com_dem_font.woff2') format('woff2'), url('https://github.com/safrazali/fg-fonts/blob/main/com_dem_font.woff') format('woff');
-    }
+font-family: 'FranklinGothicURWCom-Dem';
+font-style: normal;
+font-weight: 700;
+src: url('https://github.com/safrazali/fg-fonts/blob/main/com_dem_font.woff2') format('woff2');
+}
+
+
+@font-face {
+font-family: 'FranklinGothicURWCom-Dem';
+font-style: normal;
+font-weight: 700;
+src: url('https://github.com/safrazali/fg-fonts/blob/main/com_dem_font.woff') format('woff');
+}
